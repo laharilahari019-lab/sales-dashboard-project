@@ -68,6 +68,7 @@ The dataset contains the following fields:
 
 🖼 Dashboard Preview
 
+<img width="1130" height="644" alt="Screenshot 2025-12-07 132452" src="https://github.com/user-attachments/assets/7a0e0908-9423-4279-b000-97cb68bd46a1" />
 
 🚀 How to Use This Project
 
